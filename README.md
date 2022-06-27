@@ -11,7 +11,7 @@
  - Elabore um site responsivo com flexbox
  
 GitHub Pages: 
-[Acessem:]()
+[Acessem](https://tiagomerc.github.io/Flexbox-posicione-elementos-na-tela/)
 
 ### Flexbox: posicione elementos na tela
 
