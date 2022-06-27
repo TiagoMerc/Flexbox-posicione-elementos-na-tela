@@ -1,0 +1,41 @@
+.cabecalhoPrincipal .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.cabecalhoPrincipal-nav {
+  display: flex;
+}
+
+.rodapePrincipal-patrocinadores .container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.rodapePrincipal-patrocinadores-list {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 70%;
+  margin-right: 5%;
+
+}
+
+.rodapePrincipal-contatoForm {
+  display: flex;
+  width: 25%;
+
+}
+
+.rodapePrincipal-contatoForm-fieldset {
+  display: flex; /*Faz com que os filhos fiquem do mesmo tamanho/altura*/
+}
+
+.rodapePrincipal-navMap-list {
+  display: flex;
+ /*  flex-direction: column;
+  flex-wrap: wrap; */
+  flex-flow: column wrap;
+  height: 250px;
+}
