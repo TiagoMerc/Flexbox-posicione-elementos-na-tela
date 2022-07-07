@@ -30,3 +30,7 @@ Posicionando imagens na horizontal e organizando cada elemento de forma adequada
 Organizando o mapa de cursos na horizontal e com os informações dos cursos na vertical. 
 
 ![Arrumando o course map](img/prints/rodapes.png)
+
+Organizando o mapa de cursos na horizontal e com os informações dos cursos na vertical. 
+
+![Gri principal e limitações do felxbox](img/prints/grid.png)
