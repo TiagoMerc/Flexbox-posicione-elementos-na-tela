@@ -34,3 +34,8 @@ Organizando o mapa de cursos na horizontal e com os informações dos cursos na 
 Organizando o mapa de cursos na horizontal e com os informações dos cursos na vertical. 
 
 ![Gri principal e limitações do felxbox](img/prints/grid.png)
+
+
+Arrumando os elementos com flexbox para mobile
+
+![arrumando os elementos com flexbox para mobile](img/prints/flexbox-mobile.png)
